@@ -25,7 +25,9 @@ ecommerce-data-analysis/
 │   ├── data_cleaning_23301.py      # 清洗特定时间的数据
 │   └── visualization.py            # 可视化
 └── output/
-    └── charts/                     # 可视化图表
+│   └── charts/                     # 可视化图表
+└── conclusion/
+    └── 数据分析论文.docx
 ```
 ## 分析内容
 
