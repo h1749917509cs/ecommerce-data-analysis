@@ -18,9 +18,6 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 ```text
 ecommerce-data-analysis/
 ├── README.md
-├── data/
-│   ├── raw/                        # 原始交易数据
-│   └── processed/                  # 清洗后的数据
 ├── python/                       # python 分析代码
 │   ├── CDA.py                      # 分析数据
 │   ├── data_cleaning.py            # 数据清洗
