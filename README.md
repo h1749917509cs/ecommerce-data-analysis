@@ -1,4 +1,4 @@
-# ecommerce-data-analysis
+<img width="3000" height="1800" alt="RFM_23301_Segments_BarChart" src="https://github.com/user-attachments/assets/0331f986-0824-48e2-ab95-53b66fed34ce" /># ecommerce-data-analysis
 
 ## 项目简介
 
@@ -21,11 +21,22 @@ ecommerce-data-analysis/
 ├── python/                       # python 分析代码
 │   ├── CDA.py                      # 分析数据
 │   ├── data_cleaning.py            # 数据清洗
-│   ├── CDA_23301.py                # 分析特定时间的数据
-│   ├── data_cleaning_23301.py      # 清洗特定时间的数据
+│   ├── CDA_23301.py                # 分析特定商品的数据
+│   ├── data_cleaning_23301.py      # 清洗特定商品的数据
 │   └── visualization.py            # 可视化
 └── output/
 │   └── charts/                     # 可视化图表
+│       ├── monthly_sales_trend.png # 月度销售趋势
+│       ├── weekly_sales.png        # 周销售分布
+│       ├── hourly_orders.png       # 日订单分布
+│       ├── top_countries_sales.png # 各国销售额排名
+│       ├── top_products.png        # 商品销量排名
+│       ├── order_value_dist.png    # 客单价列表
+│       ├── kmeans_elbow.png        # K值 肘部法
+│       ├── kmeans_clusters.png     # kmeans聚类后 散点图
+│       ├── bcg_matrix.png          # 商品的BCG矩阵
+│       ├── association_rules_scatter.png  # 关联性规则的三指标散点图
+│       └── RFM_23301_Segments_BarChart.png  # 购买指定商品的客户的RFM分类
 └── conclusion/
     └── 数据分析论文.docx
 ```
