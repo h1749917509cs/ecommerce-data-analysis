@@ -16,25 +16,12 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 ```text
 ecommerce-data-analysis/
 ├── README.md
-├── python/                       # python 分析代码
-│   ├── CDA.py                      # 分析数据
-│   ├── data_cleaning.py            # 数据清洗
-│   ├── CDA_23301.py                # 分析特定商品的数据
-│   ├── data_cleaning_23301.py      # 清洗特定商品的数据
-│   └── visualization.py            # 可视化
-└── output/
-│   └── charts/                     # 可视化图表
-│       ├── monthly_sales_trend.png # 月度销售趋势
-│       ├── weekly_sales.png        # 周销售分布
-│       ├── hourly_orders.png       # 日订单分布
-│       ├── top_countries_sales.png # 各国销售额排名
-│       ├── top_products.png        # 商品销量排名
-│       ├── order_value_dist.png    # 客单价列表
-│       ├── kmeans_elbow.png        # K值 肘部法
-│       ├── kmeans_clusters.png     # kmeans聚类后 散点图
-│       ├── bcg_matrix.png          # 商品的BCG矩阵
-│       ├── association_rules_scatter.png  # 关联性规则的三指标散点图
-│       └── RFM_23301_Segments_BarChart.png  # 购买指定商品的客户的RFM分类
+├── python/                       # 代码
+│   ├── CDA.ipynb                      # 分析数据
+│   ├── data_cleaning.ipynb            # 数据清洗
+│   ├── CDA_23301.ipynb                # 分析特定商品的数据
+│   ├── data_cleaning_23301.ipynb      # 清洗特定商品的数据
+│   └── visualization.ipynb            # 可视化
 └── conclusion/
     └── 数据分析论文.docx
 ```
