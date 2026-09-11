@@ -16,7 +16,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 ```text
 ecommerce-data-analysis/
 ├── README.md
-├── python/                       # 代码
+├── code/                       # 代码
 │   ├── CDA.ipynb                      # 分析数据
 │   ├── data_cleaning.ipynb            # 数据清洗
 │   ├── CDA_23301.ipynb                # 分析特定商品的数据
