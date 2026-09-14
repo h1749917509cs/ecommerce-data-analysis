@@ -22,6 +22,7 @@ ecommerce-data-analysis/
 │   ├── CDA_23301.ipynb                # 分析特定商品的数据
 │   ├── data_cleaning_23301.ipynb      # 清洗特定商品的数据
 │   └── visualization.ipynb            # 可视化
+│   └── analyse_star_product.ipynb     # 明星产品Top3品类下Top5商品的时间序列特征研究
 └── conclusion/
     └── 数据分析论文.docx
 ```
