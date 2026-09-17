@@ -66,19 +66,19 @@ ecommerce-data-analysis/
 现金牛产品（Cash Cow）
 <img width="947" height="169" alt="image" src="https://github.com/user-attachments/assets/3e6d7e06-2d43-4ac7-88bf-295d3bbe09fd" />
 **策略建议**：维持库存深度、保障供应稳定、适度控制营销投入，最大化利润贡献。
-<br>
+<br><br>
 明星产品（Star)
 <img width="937" height="169" alt="image" src="https://github.com/user-attachments/assets/a89c38f2-a592-47ee-bfbf-c202250a86ec" />
 **策略建议**：确保库存充足、扩大采购规模、给予首页推荐或捆绑引流，推动其向现金牛演进。
-<br>
+<br><br>
 问题产品（Question）
 <img width="799" height="169" alt="image" src="https://github.com/user-attachments/assets/c63b314f-82ec-4e06-804c-9abb57361dd0" />
 **策略建议**：甄别真正具有品类创新价值的单品进行小规模试销培育；对缺乏延展性的长尾产品避免盲目投入。
-<br>
+<br><br>
 瘦狗产品（Dog）
 <img width="853" height="169" alt="image" src="https://github.com/user-attachments/assets/8a479e83-d5d9-4f7a-9038-0777de648423" />
 **策略建议**：长期零动销商品果断下架；偶发性需求商品转为"以销定采"预售模式，释放运营资源。
-<br>
+<br><br>
 关键洞察:
 1. **利润高度集中**：21212 单品相对份额达 0.416、销量 3.4 万件，头部现金牛贡献了主要销量，是供应链稳定性的核心保障对象。
 2. **季节性增长显著**：明星产品中圣诞主题商品（20668、16169E）增长强劲，需提前规划季节性备货与流量节奏。
