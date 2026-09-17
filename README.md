@@ -62,7 +62,7 @@ ecommerce-data-analysis/
 <br>
 从整体分布看，四类商品呈现明显的"两极分化"：高份额商品密集贴附于零增长线附近，而低份额区域则聚集了大量近乎零动销的长尾 SKU。
 
-各象限明细：
+各象限明细：<br>
 现金牛产品（Cash Cow）
 <img width="947" height="169" alt="image" src="https://github.com/user-attachments/assets/3e6d7e06-2d43-4ac7-88bf-295d3bbe09fd" />
 **策略建议**：维持库存深度、保障供应稳定、适度控制营销投入，最大化利润贡献。
