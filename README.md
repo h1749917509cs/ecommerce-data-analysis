@@ -63,19 +63,19 @@ ecommerce-data-analysis/
 从整体分布看，四类商品呈现明显的"两极分化"：高份额商品密集贴附于零增长线附近，而低份额区域则聚集了大量近乎零动销的长尾 SKU。
 
 各象限明细：<br>
-现金牛产品（Cash Cow）
+现金牛产品（Cash Cow）<br>
 <img width="947" height="169" alt="image" src="https://github.com/user-attachments/assets/3e6d7e06-2d43-4ac7-88bf-295d3bbe09fd" /><br>
 **策略建议**：维持库存深度、保障供应稳定、适度控制营销投入，最大化利润贡献。
 <br><br>
-明星产品（Star)
+明星产品（Star)<br>
 <img width="937" height="169" alt="image" src="https://github.com/user-attachments/assets/a89c38f2-a592-47ee-bfbf-c202250a86ec" /><br>
 **策略建议**：确保库存充足、扩大采购规模、给予首页推荐或捆绑引流，推动其向现金牛演进。
 <br><br>
-问题产品（Question）
+问题产品（Question）<br>
 <img width="799" height="169" alt="image" src="https://github.com/user-attachments/assets/c63b314f-82ec-4e06-804c-9abb57361dd0" /><br>
 **策略建议**：甄别真正具有品类创新价值的单品进行小规模试销培育；对缺乏延展性的长尾产品避免盲目投入。
 <br><br>
-瘦狗产品（Dog）
+瘦狗产品（Dog）<br>
 <img width="853" height="169" alt="image" src="https://github.com/user-attachments/assets/8a479e83-d5d9-4f7a-9038-0777de648423" /><br>
 **策略建议**：长期零动销商品果断下架；偶发性需求商品转为"以销定采"预售模式，释放运营资源。
 <br><br>
